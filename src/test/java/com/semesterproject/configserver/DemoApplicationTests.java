@@ -1,10 +1,10 @@
-package com.example.centralizedconfigurationservice;
+package com.semesterproject.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CentralizedConfigurationServiceApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
